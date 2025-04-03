@@ -2,7 +2,7 @@
 ## **Informacion**
 ![](https://images7.alphacoders.com/840/thumb-350-840909.png)
   - Nombre y apellido: *Luis Carriego*
-  - Edad: *24*
+  - Edad: *26*
   - Nro. de legajo: *11299*
   - Ciudad / Pueblo: *Los Cardales*
 # Descripcion
